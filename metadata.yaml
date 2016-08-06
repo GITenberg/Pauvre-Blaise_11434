@@ -1,0 +1,35 @@
+_repo: Pauvre-Blaise_11434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ségur, Sophie, comtesse de
+    aliases:
+    - Ségur, Comtesse de
+    - Segur, Comtesse de
+    - Ségur, Sophie Rostopchine, comtesse de
+    - Rostopchina, Sofiya Feodorovna
+    - De Ségur, Sophie, comtesse
+    birthdate: 1799
+    deathdate: 1874
+    gutenberg_agent_id: '3980'
+    url: http://www.gutenberg.org/2009/agents/3980
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sophie_Rostopchine%2C_Comtesse_de_S%C3%A9gur
+    - http://fr.wikipedia.org/wiki/Sophie_Rostopchine%2C_comtesse_de_S%C3%A9gur
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11434'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- GITenberg
+title: Pauvre Blaise
+url: http://www.gutenberg.org/ebooks/11434
